@@ -11,8 +11,6 @@ I’m interested in Data Analytics Engineering, because i love using technical s
 <img src="https://user-images.githubusercontent.com/56266061/235324323-af854648-a653-473a-bda1-71b4be29e160.png" width="31px">
 <img src="https://user-images.githubusercontent.com/56266061/235324688-e32d93e0-432f-4a2d-9d41-977abac3bbfa.png" width="60px">
 
-🌎 former Geographer, with GIS and public data souces processing background
-
 🌱 I’m currently learning Python.
 
 
