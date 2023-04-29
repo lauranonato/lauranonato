@@ -1,6 +1,7 @@
 **Hello there** 👋🍵
 
-I’m Laura and this is my Github profile! Here I store what I have been learning about data universe and I'm always trying to keep it well update. 
+I’m Laura and this is my Github profile! Here I store what I have been learning about data universe and I'm always trying to keep it well updated. 
+
 I’m interested in Data Analytics Engineering, because i love using technical skills to provide business insights and decisions.😄
 
 💻 Junior Business Analytics, working with toolkit: 
