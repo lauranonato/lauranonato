@@ -1,9 +1,6 @@
 **Hello there** 👋🍵
 
-I’m Laura and this is my Github profile! Here I store what I have been learning about data analytics and I'm always trying to keep it well updated. 
-
-I’m interested in Data Analytics Engineering, because i love using technical skills to provide business insights and decisions.😄💻
-
+I’m Laura and this is my Github profile! Here I store what I have been learning about data analytics and I'm always trying to keep it well updated. 😄💻
 🌱 I’m currently learning Python.
 
 
